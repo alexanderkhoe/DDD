@@ -1,1 +1,1 @@
-# DDD
+# Data-Driven Decision (DDD)
